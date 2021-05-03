@@ -18,3 +18,5 @@ You can see the result here → [Google clon](https://themattfire.github.io/goog
 
 1. HTML
 2. CSS
+
+Let me know what you think about it 😀
